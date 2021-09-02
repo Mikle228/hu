@@ -1,0 +1,2 @@
+print('suka')
+print('aue')
